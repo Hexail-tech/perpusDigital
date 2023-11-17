@@ -1,13 +1,9 @@
 <template>
-  <div>
+  <div class="row">
 
-    <carousel />
-
-    <about />
-
+    <Welcome />
     <FormPengunjung />
 
-    <footer />
 
   </div>
 </template>
